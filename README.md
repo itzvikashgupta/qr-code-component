@@ -17,7 +17,9 @@ The QR code component solution presented here showcases a sleek and responsive d
 
 ### Screenshot
 
-![Desktop View](./images/desktop-view-screenshot.png)
+![Desktop View:](images/desktop-view-screenshot.png)
+![Mobile View](images/mobile-view-screenshot.png)
+![Desktop View:](./images/desktop-view-screenshot.png)
 ![Mobile View](./images/mobile-view-screenshot.png)
 
 ### Links
