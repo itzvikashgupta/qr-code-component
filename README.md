@@ -22,8 +22,7 @@ The QR code component solution presented here showcases a sleek and responsive d
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://qr-code-component-soln.netlify.app/)
 
 ## My Process
 
