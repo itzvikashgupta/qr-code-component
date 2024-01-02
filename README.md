@@ -44,6 +44,6 @@ Here's a breakdown of the steps I took to create this solution:
 
 ## Author
 
-- Instagram - [Vikash Kumar](https://www.instagram.com/itzvikashgupta)
+- Instagram - [@itzvikashgupta](https://www.instagram.com/itzvikashgupta)
 - Frontend Mentor - [@itzvikashgupta](https://www.frontendmentor.io/profile/itzvikashgupta)
 - Twitter - [@itzvikashgupta](https://www.twitter.com/itzvikashgupta)
