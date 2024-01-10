@@ -17,12 +17,13 @@ The QR code component solution presented here showcases a sleek and responsive d
 
 ### Screenshot
 
-![Desktop View:](./images/desktop-view-screenshot.png)
-![Mobile View](./images/mobile-view-screenshot.png)
+- Desktop View Screenshot: ![Desktop View:](./images/desktop-view-screenshot.png)
+- Mobile View Screenshot: ![Mobile View](./images/mobile-view-screenshot.png)
 
 ### Links
 
-- [Solution URL](https://qr-code-component-soln.netlify.app/)
+- Solution URL: [https://github.com/itzvikashgupta/qr-code-component]
+- Live Site URL: [https://qr-code-component-soln.netlify.app/]
 
 ## My Process
 
